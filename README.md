@@ -7,7 +7,6 @@ I am a dedicated cybersecurity professional with a strong foundation in complex 
 * **[Cloud-Native Azure Honeynet & Global Threat Map](https://github.com/tp8888/Azure-Honeynet):** Architected a multi-sensor honeynet (T-Pot, Cowrie, Dionaea) in Microsoft Azure. Ingested and visualized over 110,000 automated attacks via Kibana, publishing deep-dive threat intelligence briefs on zero-day botnets and distributed brute-force campaigns. Architected a multi-sensor honeynet (T-Pot, Cowrie, Dionaea) in Microsoft Azure. Ingested and visualized over 110,000 automated attacks via Kibana, publishing deep-dive threat intelligence briefs on zero-day botnets and distributed brute-force campaigns.
 
 ### 🚧 Upcoming Lab Environments (In Progress)
-*(This section shows recruiters you are actively learning)*
 * **Network Hardening & Firewall Deployment:** Configuring and securing a pfSense perimeter.
 * **Database Security:** SQL injection vulnerability testing and audit logging.
 * **Endpoint Detection & Response (EDR):** Deploying Wazuh for host-based threat hunting.
@@ -19,4 +18,4 @@ I am a dedicated cybersecurity professional with a strong foundation in complex 
 
 📫 **Connect with me:** www.linkedin.com/in/thomas-d-price
 
- | 📝 **Read my Threat Briefs:** (https://medium.com/@thomas_d_price/i-built-a-cloud-native-honeynet-in-azure-here-is-what-110-000-automated-attacks-taught-me-f6b584c5979e)
+📝 **Read my Threat Briefs:** (https://medium.com/@thomas_d_price/i-built-a-cloud-native-honeynet-in-azure-here-is-what-110-000-automated-attacks-taught-me-f6b584c5979e)
