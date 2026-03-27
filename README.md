@@ -16,6 +16,6 @@ I am a dedicated cybersecurity professional with a strong foundation in complex 
 * **Cloud & Infrastructure:** Microsoft Azure, Linux (Ubuntu/Debian), Windows Server
 * **Security Operations:** Threat Intelligence, OSINT (Cisco Talos, VirusTotal), Vulnerability Management
 
-📫 **Connect with me:** www.linkedin.com/in/thomas-d-price
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/thomas-d-price)
 
-📝 **Read my Threat Briefs:** (https://medium.com/@thomas_d_price/i-built-a-cloud-native-honeynet-in-azure-here-is-what-110-000-automated-attacks-taught-me-f6b584c5979e)
+📝 **Read my Threat Briefs:** [Medium](https://medium.com/@thomas_d_price/i-built-a-cloud-native-honeynet-in-azure-here-is-what-110-000-automated-attacks-taught-me-f6b584c5979e)
