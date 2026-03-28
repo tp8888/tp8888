@@ -4,7 +4,7 @@
 I am a dedicated cybersecurity professional with a strong foundation in complex system diagnostics and troubleshooting. I use this GitHub space as a living portfolio to document my hands-on research, lab builds, and threat intelligence investigations.
 
 ### 🛡️ Featured Security Projects
-* **[Cloud-Native Azure Honeynet & Global Threat Map](https://github.com/tp8888/Azure-Honeynet):** Architected a multi-sensor honeynet (T-Pot, Cowrie, Dionaea) in Microsoft Azure. Ingested and visualized over 110,000 automated attacks via Kibana, publishing deep-dive threat intelligence briefs on zero-day botnets and distributed brute-force campaigns. Architected a multi-sensor honeynet (T-Pot, Cowrie, Dionaea) in Microsoft Azure. Ingested and visualized over 110,000 automated attacks via Kibana, publishing deep-dive threat intelligence briefs on zero-day botnets and distributed brute-force campaigns.
+* **[Cloud-Native Azure Honeynet & Global Threat Map](https://github.com/tp8888/Azure-Honeynet):** Architected a multi-sensor honeynet (T-Pot, Cowrie, Dionaea) in Microsoft Azure. Ingested and visualized over 110,000 automated attacks via Kibana, publishing deep-dive threat intelligence briefs on zero-day botnets and distributed brute-force campaigns. 
 
 ### 🚧 Upcoming Lab Environments (In Progress)
 * **Network Hardening & Firewall Deployment:** Configuring and securing a pfSense perimeter.
