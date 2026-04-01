@@ -8,6 +8,7 @@ I am a dedicated cybersecurity professional with a strong foundation in complex 
 
 ### 🚧 Upcoming Lab Environments (In Progress)
 * **Network Hardening & Firewall Deployment:** Configuring and securing a pfSense perimeter.
+* **PowerShell:** System administration, threat hunting, and infrastructure management.
 * **Database Security:** SQL injection vulnerability testing and audit logging.
 * **Endpoint Detection & Response (EDR):** Deploying Wazuh for host-based threat hunting.
 
