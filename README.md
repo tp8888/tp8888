@@ -10,12 +10,17 @@ I am a dedicated cybersecurity professional with a strong foundation in complex 
 * **Network Hardening & Firewall Deployment:** Configuring and securing a pfSense perimeter.
 * **PowerShell:** System administration, threat hunting, and infrastructure management.
 * **Database Security:** SQL injection vulnerability testing and audit logging.
+* **Burpsuite:** "Swiss Army knife" for penetration testers, used for performing security testing on web applications.
+* **Wireshark:** Deep dive into packet inspection.
 * **Endpoint Detection & Response (EDR):** Deploying Wazuh for host-based threat hunting.
 
 ### 🛠️ Core Technology Stack
-* **SIEM & Analytics:** ELK Stack (Kibana, Logstash), KQL, Splunk
+* **SIEM & Endpoint Security:** ELK Stack (Kibana, Logstash), KQL, Splunk, Wazuh EDR
+* **Network Security & Analysis:** pfSense, Wireshark
 * **Cloud & Infrastructure:** Microsoft Azure, Linux (Ubuntu/Debian), Windows Server
-* **Security Operations:** Threat Intelligence, OSINT (Cisco Talos, VirusTotal), Vulnerability Management
+* **Scripting & Automation:** PowerShell
+* **Offensive Security & Vulnerability Testing:** Burp Suite, Database Vulnerability Testing (SQLi)
+* **Security Operations & Threat Intel:** Threat Intelligence, OSINT (Cisco Talos, VirusTotal), Vulnerability Management
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/thomas-d-price)
 
