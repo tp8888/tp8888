@@ -12,6 +12,7 @@ I am a dedicated cybersecurity professional with a strong foundation in complex 
 * **Database Security:** SQL injection vulnerability testing and audit logging.
 * **Burpsuite:** "Swiss Army knife" for penetration testers, used for performing security testing on web applications.
 * **Wireshark:** Deep dive into packet inspection.
+* **Wazuh:** Unified XDR and SIEM protection for endpoints and cloud workloads.
 * **Endpoint Detection & Response (EDR):** Deploying Wazuh for host-based threat hunting.
 
 ### 🛠️ Core Technology Stack
